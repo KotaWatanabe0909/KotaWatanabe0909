@@ -13,7 +13,7 @@
 
 
 ## Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,git,github,vscode,apple,gmail,c,latex,notion,obsidian,linux&theme=light)
+![Skills](https://skillicons.dev/icons?i=python,git,github,vscode,apple,c,latex,notion,obsidian,linux&theme=light)
 
 ## Career
 
