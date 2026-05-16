@@ -1,17 +1,13 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KotaWatanabe0909.KotaWatanabe0909)
 # Hi, I'm Kota 👋
+## About Me
 
-🎓 B.Eng. Information Science @ Kyoto Institute of Technology (M.Eng. 2027 expected)  
+🎓 B.Eng. Information Science @ Kyoto Institute of Technology (B.Eng. expected 2027 · M.Eng. expected 2029)  
+🔬 Social Intelligence Informatics Laboratory  
 💼 MLE Intern @ Athena Technologies  
 📍 Shiga / Kyoto, Japan
 
 
-
-## About Me
-
-🔭 Currently working on ML systems at Athena Technologies
-
-🌱 Currently learning — LLMs, Deep Learning
 
 
 
@@ -32,7 +28,9 @@
 | Date | Name | Issuer |
 |---|---|---|
 | 2025/11 | G検定 | JDLA |
-| 2026/03 | GCI 2025 Winter (LLM / Deep Learning Foundations) | Matsuo Lab |
+| 2025/12 | 大規模言語モデル基礎編| Matsuo Lab |
+| 2026/01 | Deep Learning 基礎 | Matsuo Lab |
+| 2026/03 | GCI 2025 Winter | Matsuo Lab |
 
 ## Languages
 
