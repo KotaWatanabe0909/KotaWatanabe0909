@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 B.Eng. Information Science @ Kyoto Institute of Technology (B.Eng. expected 2027 · M.Eng. expected 2029)  
-🔬 Social Intelligence Informatics Laboratory  
+🔬 [Social Intelligence Informatics Laboratory  ](https://www.soc.is.kit.ac.jp/)  
 💼 MLE Intern @ Athena Technologies  
 📍 Shiga / Kyoto, Japan
 
