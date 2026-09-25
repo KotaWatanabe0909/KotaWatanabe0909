@@ -12,9 +12,6 @@
 
 
 
-## Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,git,github,vscode,apple,c,latex,notion,obsidian,linux&theme=light)
-
 ## Career
 
 | Period | Role | Organization |
@@ -22,6 +19,12 @@
 | 2023/04 – Present | B.Eng. Information Science | Kyoto Institute of Technology |
 | 2026/01 – Present | MLE Intern | Athena Technologies |
 
+
+## Hackathons
+
+| Date | Event | Project |
+|---|---|---|
+| 2026/09 | KIT Codex Hack Fes 2026 | [TableCast](https://github.com/kit-codex-hack-fes-2026/tablecast-poc) — Voice-based ordering & customer-service AI agent for restaurant tablet iPads (team of 4) |
 
 ## Certifications & Courses
 
