@@ -24,7 +24,7 @@
 
 | Date | Event | Project |
 |---|---|---|
-| 2026/09 | [KIT Codex Hack Fes 2026](https://codex-student-hack-fes.openai.chatgpt.site/) | [TableCast](https://github.com/kit-codex-hack-fes-2026/tablecast-poc) — Voice-based ordering & customer-service AI agent for restaurant tablet iPads (team of 4) |
+| 2026/09 | [OpenAI 大学生向け 夏の Codex 開発祭 2026](https://codex-student-hack-fes.openai.chatgpt.site/) | [TableCast](https://github.com/kit-codex-hack-fes-2026/tablecast-poc) — Voice-based ordering & customer-service AI agent for restaurant tablet iPads (team of 4) |
 
 ## Certifications & Courses
 
